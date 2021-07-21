@@ -59,6 +59,14 @@
 	font-weight:600;
 	src : url("../font/Fixture-SemiBold.ttf");
 }
+
+body{
+	transform: scale(0.37);
+	position: absolute;
+	top: -90%;
+	left: -56%;
+	}
+
 body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	margin:0;
 	padding:0;
@@ -231,6 +239,8 @@ span.CharOverride-22 {
 	font-style:italic;
 	font-weight:300;
 }
+
+
 #_idAudio000 {
 	-webkit-transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.030,1.000);
 	-webkit-transform-origin:0% 0%;
