@@ -61,11 +61,10 @@
 }
 
 body{
-	transform: scale(0.34);
+	transform: scale(0.4);
 	position: absolute;
-	top: -120%;
-	left: -13%;
-	
+top: -700px;
+left: -150px;
 	}
 
 body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
